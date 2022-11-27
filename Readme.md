@@ -3,7 +3,7 @@
 # Projeto: Banco de Dados App – Doações de Alimentos  
 ## Projeto Integrador em Computação III - PJI-310- Turma 001
 
-### Polo Jambeiro - São Paulo | Polo Bragança Paulista | Polo Lajeado Guaianase | Polo CEU Campo Limpo
+### Polo Jambeiro - São Paulo | Polo Bragança Paulista | Polo Lajeado Guaianases | Polo CEU Campo Limpo
 
 ### Objetivo
 Este projeto é parte integrante da disciplina de Projeto Integrador em Computação III - PJI-310-Turma 001 - realizada no 2º semestre de 2022 na 
