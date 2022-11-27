@@ -15,6 +15,7 @@ O projeto tem como foco apresentar um App visando auxiliar a administração de 
 engajamento dos moradores em doações em produtos com maior necessidade dos condôminos e com isto reduzir estoque de produtos e o risco de perdas por
 vencimento de validade.
 
+### Foram utilizados as seguintes técnologias:
 ### Link (Em desenvolvimento)
 ...
 
