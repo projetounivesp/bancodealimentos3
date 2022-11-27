@@ -16,8 +16,10 @@ engajamento dos moradores em doações em produtos com maior necessidade dos con
 vencimento de validade.
 
 ### Foram utilizados as seguintes técnologias:
+ - Python utilizado para o desenvolvimento da api 
 ### Link (Em desenvolvimento)
 ...
+
 
 ### Time de desenvolvimento
 ```
