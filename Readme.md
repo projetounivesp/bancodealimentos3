@@ -15,7 +15,8 @@ O projeto tem como foco apresentar um App visando auxiliar a administração de 
 ### Foram utilizados as seguintes técnologias:
  - Python utilizado para o desenvolvimento da api 
 ### Link (Em desenvolvimento)
-...
+
+### Além de proporcionar a possibilidade de exercer cidadania por meio da ação social , o projeto foi uma oportunidade de colocar o aprenzido em pratica de forma colaborativa. 
 
 
 ### Time de desenvolvimento
