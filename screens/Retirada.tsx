@@ -53,7 +53,7 @@ export default function TabTwoScreen() {
 
         <Text  style={{fontSize:15, color:"black", padding:10,fontWeight:"bold"}}>Selecione o produto que deseja retirar</Text>
 
-        <Picker
+        <Picker mode='dropdown'
   selectedValue={selecioneProduto}
    style={{backgroundColor:"#eee",color:"black", width:"90%", marginLeft:"auto",marginRight:"auto"}}
   onValueChange={(itemValue, itemIndex) =>

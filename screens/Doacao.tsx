@@ -129,7 +129,7 @@ useEffect(()=>{
     </Picker>
 
     </View>
-    <View style={{flex:1}}>
+    <View style={{flex:1, backgroundColor:"#ffffff"}}>
     <Text style={{fontSize:15, color:"black"}}>Mês</Text>
 
     <Picker selectedValue={mes}
@@ -152,7 +152,7 @@ useEffect(()=>{
       
     </Picker>
     </View>
-    <View style={{flex:1}}>
+    <View style={{flex:1,backgroundColor:"#ffffff"}}>
       
     <Text style={{fontSize:15, color:"black"}}>Ano</Text>
     <Picker selectedValue={ano} 
