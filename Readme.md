@@ -12,7 +12,7 @@ O projeto tem como objetivo desenvolver um software com framework web ou aplicat
 
 O projeto tem como foco apresentar um App visando auxiliar a administração de um condomínio em sua campanha de doação de alimentos. O aplicativo, além das funcionalidades de cadastro de banco de dados, irá identificar os produtos mais doados a fim de subsidiar a administração dos condomínios com informações que possam ajudá-los a promover o engajamento dos moradores em doações em produtos com maior necessidade dos condôminos e com isto reduzir estoque de produtos e o risco de perdas por vencimento de validade.
 
-### Foram utilizados as seguintes técnologias:
+### Foram utilizados as seguintes tecnologias:
  - Python utilizado para o desenvolvimento da api 
 ### Link (Em desenvolvimento)
 
