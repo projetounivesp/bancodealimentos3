@@ -13,8 +13,11 @@ O projeto tem como objetivo desenvolver um software com framework web ou aplicat
 O projeto tem como foco apresentar um App visando auxiliar a administração de um condomínio em sua campanha de doação de alimentos. O aplicativo, além das funcionalidades de cadastro de banco de dados, irá identificar os produtos mais doados a fim de subsidiar a administração dos condomínios com informações que possam ajudá-los a promover o engajamento dos moradores em doações em produtos com maior necessidade dos condôminos e com isto reduzir estoque de produtos e o risco de perdas por vencimento de validade.
 
 ### Foram utilizados as seguintes tecnologias:
- - Python utilizado para o desenvolvimento da api 
-### Link (Em desenvolvimento)
+ - Python utilizado para o desenvolvimento da api
+ - My SQL
+ - API Rest
+
+### Link (https://www.youtube.com/watch?v=yHD7PLWS4G8)
 
 ### Além de proporcionar a possibilidade de exercer cidadania por meio da ação social , o projeto foi uma oportunidade de colocar o aprenzido em pratica de forma colaborativa. 
 
@@ -27,6 +30,6 @@ Eduardo Gonçalves Gama - Polo Jambeiro - São Paulo
 José Ocimar Alves de Freitas - Polo Jambeiro - São Paulo
 Leoni Duarte Antunes - Polo Jambeiro - São Paulo
 Danilo Eiji Ito - Polo Bragança Paulista
-Robson Augusto Arcanjo de Brito - Polo Lajeado Guaianase
+Robson Augusto Arcanjo de Brito - Polo Lajeado Guaianases
 Leandro Soares - Polo CEU Campo Limpo
 ```
